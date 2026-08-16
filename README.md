@@ -1,0 +1,1 @@
+# kichwa_translate
